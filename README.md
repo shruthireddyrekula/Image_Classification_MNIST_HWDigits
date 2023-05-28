@@ -13,13 +13,13 @@ This is a quick introduction to use tensorflow for image classification problem.
 
 # Data
 
-Size of train data: 3000 images.
+Size of train data: 60000 images.
 
 # Results
 
 Train accuracy 98.7% with 0.0383 loss
 
-Validation accuracy 98.5% with  0.046898 loss
+Validation accuracy 98.5% with 0.046898 loss
 
 
 # References:
