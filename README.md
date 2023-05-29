@@ -8,7 +8,7 @@ This is a quick introduction to use tensorflow for image classification problem 
 
 3) Train the model on training data with adam optimizer and categorical_crossentropy loss.
 
-4) Get the model predictions on new test images
+4) Get the model predictions on test images
 
 
 # Data
