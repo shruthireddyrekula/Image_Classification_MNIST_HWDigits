@@ -1,6 +1,6 @@
 # Image_Classification_MNIST_HWDigits(keras)
 
-This is a quick introduction to use tensorflow for image classification problem. Here are the steps we perform in this colab notebook:
+This is a quick introduction to use tensorflow for image classification problem using MNIST handwritten digits using keras API with Conv2D, MaxPooling2D and dense layers with relu and softmax activation functions. Here are the steps we perform in this colab notebook:
 
 1) Load train and test data 
 
