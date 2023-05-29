@@ -14,6 +14,8 @@ This is a quick introduction to use tensorflow for image classification problem 
 # Data
 
 Size of train data: 60000 images.
+ 
+Sixe of test data: 10000 images
 
 # Results
 
